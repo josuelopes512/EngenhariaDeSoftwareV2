@@ -1,0 +1,26 @@
+<list>
+  <listaDeProdutos>
+    <nomeProduto>notebook asus</nomeProduto>
+    <precoProduto>1250.0</precoProduto>
+    <qtdProdutoEstoque>149</qtdProdutoEstoque>
+    <codigoProduto>54745.0</codigoProduto>
+  </listaDeProdutos>
+  <listaDeProdutos>
+    <nomeProduto>notebook dell</nomeProduto>
+    <precoProduto>2984.0</precoProduto>
+    <qtdProdutoEstoque>199</qtdProdutoEstoque>
+    <codigoProduto>852562.0</codigoProduto>
+  </listaDeProdutos>
+  <listaDeProdutos>
+    <nomeProduto>samsung a70</nomeProduto>
+    <precoProduto>854.0</precoProduto>
+    <qtdProdutoEstoque>2492</qtdProdutoEstoque>
+    <codigoProduto>462533.0</codigoProduto>
+  </listaDeProdutos>
+  <listaDeProdutos>
+    <nomeProduto>teclado</nomeProduto>
+    <precoProduto>30.0</precoProduto>
+    <qtdProdutoEstoque>519</qtdProdutoEstoque>
+    <codigoProduto>917297.0</codigoProduto>
+  </listaDeProdutos>
+</list>

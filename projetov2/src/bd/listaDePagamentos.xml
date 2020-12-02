@@ -1,0 +1,12 @@
+<list>
+  <Desconto>
+    <tipoPagamento defined-in="listaDePagamentos">CREDITO</tipoPagamento>
+    <valorPagamento defined-in="listaDePagamentos">30.0</valorPagamento>
+    <codigoPagamento defined-in="listaDePagamentos">0.0</codigoPagamento>
+    <flagDesconto defined-in="listaDePagamentos">false</flagDesconto>
+    <tipoPagamento>CREDITO</tipoPagamento>
+    <valorPagamento>21.0</valorPagamento>
+    <flagDesconto>true</flagDesconto>
+    <codigoPagamento>380679.0</codigoPagamento>
+  </Desconto>
+</list>
